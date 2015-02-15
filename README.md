@@ -13,8 +13,6 @@ How to run
 -----------
 It is an eclipse project, so open it with eclipse and run the project :D!
 
-*Note: rename the WEKA.jar_ into WEKA.jar in the lib folder. I don't know, but this is because my source tree keep ignored the jar file -___-'
-
 Library Used
 ------------
 WEKA
